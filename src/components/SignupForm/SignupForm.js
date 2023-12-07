@@ -28,7 +28,7 @@ const SignupForm = () => {
   };
   return (
     <form className="d-flex flex-column gap-2 position-relative" onSubmit={handleSubmit}>
-      <h4 className="signup-heading">Signup for exclusive access</h4>
+      <h4 className="signup-heading">Signup for <br/> exclusive access</h4>
       <div className="position-relative">
         <input
           type="text"
