@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loch/static/css/main.60178df8.css",
+    "main.js": "/loch/static/js/main.3740157c.js",
+    "static/js/787.99e86a80.chunk.js": "/loch/static/js/787.99e86a80.chunk.js",
+    "static/media/Cohorts.jpg": "/loch/static/media/Cohorts.743961e3a88fb3f72a54.jpg",
+    "static/media/revicons.eot": "/loch/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/loch/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/loch/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/bell-white.svg": "/loch/static/media/bell-white.3a632f05c64ce6ceac68df74c9e652d0.svg",
+    "static/media/Checkmark.svg": "/loch/static/media/Checkmark.42008348bc7ba8ae36c3724d71ce738e.svg",
+    "static/media/Vector.svg": "/loch/static/media/Vector.972c8a77129582b0a3efad85c9dd0464.svg",
+    "static/media/bell.svg": "/loch/static/media/bell.12f864ab55c9590187d9db31c9729db4.svg",
+    "index.html": "/loch/index.html",
+    "static/media/clock.svg": "/loch/static/media/clock.e9b622fa589d07fbbc1260fa871c042e.svg",
+    "main.60178df8.css.map": "/loch/static/css/main.60178df8.css.map",
+    "main.3740157c.js.map": "/loch/static/js/main.3740157c.js.map",
+    "787.99e86a80.chunk.js.map": "/loch/static/js/787.99e86a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60178df8.css",
+    "static/js/main.3740157c.js"
+  ]
+}
