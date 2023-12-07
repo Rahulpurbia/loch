@@ -1,0 +1,31 @@
+.notification-container {
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+    width: 30%;
+    min-width: 220px;
+    max-width: 250px;
+    padding: 15px; 
+    box-shadow: 0px 0.699999988079071px 0.699999988079071px 0px #0000000A, 0px 2.799999952316284px 7px 0px #0000000A;
+}
+
+select {
+    padding: 3px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    background: rgba(229, 229, 230, 0.5);
+}
+
+input[type="email"] {
+    border: 1px solid rgba(229, 229, 230, 1);
+    border-radius: 8px;
+    padding-block: 11px;
+    text-indent: 10px;
+    width: 100%;
+}
+
+.gradient-card {
+    background: linear-gradient(0deg, rgb(255 255 255 / 70%), rgb(255 255 255)), linear-gradient(180deg, rgba(255, 255, 255, 0.2) 27.5%, rgba(22, 93, 255, 0.162) 157.71%);
+}

@@ -1,0 +1,22 @@
+.testimonial-card {
+    border-radius: 8px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    width: 30%;
+    min-width: 326px;
+    max-width: 350px;
+    padding: 20px;
+    box-shadow: 0px 1px 1px 0px #0000000A, 0px 4px 10px 0px #0000000A;
+    cursor: pointer;
+
+}
+
+.position-text {
+    color: #96979A;
+    font-size: 15px;
+}
+
+.testimonial-text {
+    line-height: 20px;
+}

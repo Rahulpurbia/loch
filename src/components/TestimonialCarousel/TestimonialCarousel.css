@@ -1,0 +1,7 @@
+.testimonial-carousel{
+    display: flex;
+    position: relative;
+    gap:30px;
+    overflow: auto;
+    padding-right:30px;
+}

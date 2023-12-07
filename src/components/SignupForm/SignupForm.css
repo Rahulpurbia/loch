@@ -1,0 +1,53 @@
+.error-container {
+    top: 2px;
+    color: red;
+    width: 100%;
+    position: absolute;
+}
+
+
+.signup-heading {
+    color: rgba(176, 177, 179, 1);
+    font-size: 30px;
+    font-weight: 500;
+}
+
+form {
+    width: 70%;
+    max-width: 450px;
+}
+
+input[type="text"] {
+    border: 1px solid rgba(229, 229, 230, 1);
+    border-radius: 8px;
+    padding-block: 18px;
+    text-indent: 15px;
+    width: 100%;
+}
+
+input[type="text"]::placeholder {
+    color: rgba(202, 203, 204, 1);
+    font-weight: 500;
+    opacity: 1;
+}
+
+.get-started-btn {
+    background-color: rgba(25, 25, 26, 1);
+    border: 1px solid rgba(25, 25, 26, 1);
+    border-radius: 8px;
+    outline: none;
+    width: 100%;
+    text-align: center;
+    height: 53px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+@media screen and (max-width:900px) {
+    form{
+        width: 100%;
+    }
+}
