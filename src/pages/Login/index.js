@@ -37,7 +37,7 @@ const Login = () => {
                 alt="clock"
                 width="290px"
                 height="260px"
-                className="position-relative"
+                className="position-relative br-8px"
               />
             </div>
             <div className="d-flex flex-column get-notified-section position-relative align-items-end mr-35 pl-35 flex-1">
