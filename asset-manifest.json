@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/loch/static/css/main.60178df8.css",
-    "main.js": "/loch/static/js/main.38c157ea.js",
+    "main.js": "/loch/static/js/main.25e55ada.js",
     "static/js/787.99e86a80.chunk.js": "/loch/static/js/787.99e86a80.chunk.js",
     "static/media/Cohorts.jpg": "/loch/static/media/Cohorts.743961e3a88fb3f72a54.jpg",
     "static/media/revicons.eot": "/loch/static/media/revicons.a77de540a38981833f9e.eot",
@@ -14,11 +14,11 @@
     "index.html": "/loch/index.html",
     "static/media/clock.svg": "/loch/static/media/clock.e9b622fa589d07fbbc1260fa871c042e.svg",
     "main.60178df8.css.map": "/loch/static/css/main.60178df8.css.map",
-    "main.38c157ea.js.map": "/loch/static/js/main.38c157ea.js.map",
+    "main.25e55ada.js.map": "/loch/static/js/main.25e55ada.js.map",
     "787.99e86a80.chunk.js.map": "/loch/static/js/787.99e86a80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60178df8.css",
-    "static/js/main.38c157ea.js"
+    "static/js/main.25e55ada.js"
   ]
 }
